@@ -2,10 +2,10 @@
 
 Tugas UAS
 
-Nama : Zubair Al Adzhari.
-NIM : 312110256.
-Kelas : TI21B1.
-Matkul : Pemrograman Web.
+> Nama : Zubair Al Adzhari
+> NIM : 312110256
+> Kelas : TI21B1
+> Matkul : Pemrograman Web
 
 # Hasil Scrensoot Aplikasi checklist Toilet
 
